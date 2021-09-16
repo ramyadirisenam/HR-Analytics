@@ -1,0 +1,21 @@
+02 - visualization
+01- encoding
+03 - data cleaning eda
+05- scalers diff logistic models
+06 and upgrad video- hyperparameter tuning graphs
+
+
+
+class imbalance
+pca visuvalization
+pandas profiling
+diff classifiers
+stacking
+violin plots
+
+https://github.com/Kunika05/HR-Analytics-Case-Study-.ipynb/blob/main/HR_Analytics_(Case_Study_).ipynb
+https://github.com/urvi367/HR-Analytics-Case-Study/blob/master/EDA%20%2B%20logistic%20regression.ipynb
+https://github.com/diegovallejossalas/HR_Case/blob/main/HR_case.ipynb
+https://github.com/manish22ba/-IBM-HR-analytics_emploees_case/blob/main/IBM%20HR%20analytics_emploees_case_study.ipynb
+
+
